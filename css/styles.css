@@ -42,13 +42,18 @@ z-index: 0;
     background-color: #512DAB;
 }
 
-.btn-primary{
-    background-color: #512DAB;
-}
 
 .card-header {
     background-color: #512DAB;
 }
 
 
+.bg-yellow {
+    background-color: rgba(255, 187, 0, 0.924);
+}
+
+
+
+
+ 
 
