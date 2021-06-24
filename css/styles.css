@@ -41,3 +41,7 @@ z-index: 0;
 .navbar-dark{
     background-color: #512DAB;
 }
+
+.btn-primary{
+    background-color: #512DAB;
+}
